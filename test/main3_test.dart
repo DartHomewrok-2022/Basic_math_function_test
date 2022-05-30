@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:test/test.dart';
-import '../bin/main2.dart';
+import '../bin/main3.dart';
 
 void main() {
   test('main2', () {
