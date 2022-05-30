@@ -7,5 +7,5 @@ void main() {
 func(pi) {
   var a = pi;
 
-  return double.parse((a).toStringAsFixed(2));
+  return a.toStringAsFixed(2);
 }
